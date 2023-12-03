@@ -1,6 +1,6 @@
 I made this based on the Resch Computer Science Lab for my Ackerley Project for 2022, and presented it at Scholar Showcase! This is my first project in Unreal Engine 4, and I was learning a lot while making this.
 
-P.S. The monitors are interact with the physics.
+P.S. You can interact with the monitors with physics.
 
 
 <img width="1680" alt="Screen Shot 2022-11-29 at 2 16 38 PM" src="https://user-images.githubusercontent.com/102188875/204641972-1d0fe5c9-3a2f-4915-82bc-76e42705653a.png">
